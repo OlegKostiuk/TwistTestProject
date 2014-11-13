@@ -1,0 +1,4 @@
+<testsuite errors="0" failures="0" hostname="EPUALVIW0663" name="Readme.scn" tests="1" time="0.0040" timestamp="2014-11-13T15:08:46">
+  <properties />
+  <testcase classname="com.thoughtworks.twist.core.execution.ant.XMLJunitOutputListener$TestWrapper" name="Readme.scn" time="0.0040" />
+</testsuite>

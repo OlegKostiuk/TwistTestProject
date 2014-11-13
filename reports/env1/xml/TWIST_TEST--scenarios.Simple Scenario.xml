@@ -1,0 +1,4 @@
+<testsuite errors="0" failures="0" hostname="EPUALVIW0663" name="Simple Scenario.scn" tests="1" time="5.974" timestamp="2014-11-13T15:08:52">
+  <properties />
+  <testcase classname="com.thoughtworks.twist.core.execution.ant.XMLJunitOutputListener$TestWrapper" name="Simple Scenario.scn" time="5.974" />
+</testsuite>

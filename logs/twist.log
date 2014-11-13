@@ -1,0 +1,344 @@
+0    [pool-3-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+0    [pool-3-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+0    [pool-3-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+0    [pool-3-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+0    [pool-3-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+0    [pool-3-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+0    [pool-3-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+0    [pool-3-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+0    [pool-3-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+0    [pool-3-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+10524 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+10700 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+19602 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+19612 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+19948 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+20020 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+10869 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+10927 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+15705 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+15709 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+16010 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+16053 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+12768 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+12828 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+18386 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+18391 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+18748 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+18843 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+14973 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+15033 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+21990 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+21997 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+22369 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+22417 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+12664 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+12727 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+17341 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+17346 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+17649 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+17684 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+12019 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+12080 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+16439 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+16448 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+16769 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+16782 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+10895 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+10955 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+16921 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+16926 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+17296 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+17377 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+12837 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+12903 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+17223 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+17231 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+17559 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+17662 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+10921 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+10980 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+17563 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+17572 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+17918 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+18001 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+12091 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+12150 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+18081 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+18090 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+18444 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+18450 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+14420 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+14479 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+21077 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+21086 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+21454 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+21531 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+690  [pool-1-thread-1] ERROR com.thoughtworks.twist.user  - ** Execution of scenarios failed with the message: Unable to load suite configuration:applicationContext-suite.xml
+690  [pool-1-thread-1] ERROR com.thoughtworks.twist.user  - ** The exception was thrown was org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'webDriverFactory' defined in class path resource [applicationContext-suite.xml]: Could not resolve placeholder 'browser_name'
+719  [pool-1-thread-1] ERROR com.thoughtworks.twist.user  - org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'webDriverFactory' defined in class path resource [applicationContext-suite.xml]: Could not resolve placeholder 'browser_name'
+	at org.springframework.beans.factory.config.PlaceholderConfigurerSupport.doProcessProperties(PlaceholderConfigurerSupport.java:209)
+	at org.springframework.beans.factory.config.PropertyPlaceholderConfigurer.processProperties(PropertyPlaceholderConfigurer.java:220)
+	at org.springframework.beans.factory.config.PropertyResourceConfigurer.postProcessBeanFactory(PropertyResourceConfigurer.java:84)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:681)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:656)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:446)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at com.thoughtworks.twist.core.container.SpringContainer.startSuite(SpringContainer.java:93)
+	at com.thoughtworks.twist.core.execution.stage.SuiteStartStage.execute(SuiteStartStage.java:35)
+	at com.thoughtworks.twist.messaging.service.remote.DefaultRemoteProcessService.runScenario(DefaultRemoteProcessService.java:250)
+	at com.thoughtworks.twist.messaging.event.PlaybackAcknowledgement.execute(PlaybackAcknowledgement.java:37)
+	at com.thoughtworks.twist.messaging.event.PlaybackAcknowledgement.execute(PlaybackAcknowledgement.java:1)
+	at com.thoughtworks.twist.messaging.event.AbstractEvent.execute(AbstractEvent.java:30)
+	at com.thoughtworks.twist.messaging.RemoteSession.messageReceived(RemoteSession.java:146)
+	at org.apache.mina.common.DefaultIoFilterChain$TailFilter.messageReceived(DefaultIoFilterChain.java:743)
+	at org.apache.mina.common.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:405)
+	at org.apache.mina.common.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:40)
+	at org.apache.mina.common.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:823)
+	at org.apache.mina.common.IoFilterEvent.fire(IoFilterEvent.java:54)
+	at org.apache.mina.common.IoEvent.run(IoEvent.java:62)
+	at org.apache.mina.filter.executor.UnorderedThreadPoolExecutor$Worker.runTask(UnorderedThreadPoolExecutor.java:480)
+	at org.apache.mina.filter.executor.UnorderedThreadPoolExecutor$Worker.run(UnorderedThreadPoolExecutor.java:435)
+	at java.lang.Thread.run(Thread.java:662)
+
+721  [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+9529 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+9604 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+14390 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+14398 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+14703 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+14785 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+8789 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+8847 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+14668 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+14677 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+14983 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+15066 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+13871 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+13928 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+20129 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+20138 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+20487 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+20494 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+12346 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+12415 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+17068 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+17074 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+17379 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+17477 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+10575 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+10641 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+16290 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+16295 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+16712 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+16798 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+8239 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+8303 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+12848 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+12856 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+13159 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+13246 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+9332 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+9390 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+14912 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+14922 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+15240 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+15327 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+10656 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+10715 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+16839 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+16848 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+17183 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+17282 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+8286 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+8344 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+13416 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+13425 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+15109 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+15148 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+11455 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+11515 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+17480 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+17485 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+17836 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+17922 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 2 scenario(s) has started.
+11223 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Readme.scn' started.
+11281 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Readme.scn'.
+15858 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+15867 [pool-1-thread-2] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+16254 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+16349 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 1 scenario(s) has started.
+578  [pool-1-thread-1] ERROR com.thoughtworks.twist.user  - ** Execution of scenarios failed with the message: Unable to load suite configuration:applicationContext-suite.xml
+581  [pool-1-thread-1] ERROR com.thoughtworks.twist.user  - ** The exception was thrown was org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'webDriverFactory' defined in class path resource [applicationContext-suite.xml]: Could not resolve placeholder 'platform'
+621  [pool-1-thread-1] ERROR com.thoughtworks.twist.user  - org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'webDriverFactory' defined in class path resource [applicationContext-suite.xml]: Could not resolve placeholder 'platform'
+	at org.springframework.beans.factory.config.PlaceholderConfigurerSupport.doProcessProperties(PlaceholderConfigurerSupport.java:209)
+	at org.springframework.beans.factory.config.PropertyPlaceholderConfigurer.processProperties(PropertyPlaceholderConfigurer.java:220)
+	at org.springframework.beans.factory.config.PropertyResourceConfigurer.postProcessBeanFactory(PropertyResourceConfigurer.java:84)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:681)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:656)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:446)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at com.thoughtworks.twist.core.container.SpringContainer.startSuite(SpringContainer.java:93)
+	at com.thoughtworks.twist.core.execution.stage.SuiteStartStage.execute(SuiteStartStage.java:35)
+	at com.thoughtworks.twist.messaging.service.remote.DefaultRemoteProcessService.runScenario(DefaultRemoteProcessService.java:250)
+	at com.thoughtworks.twist.messaging.event.PlaybackAcknowledgement.execute(PlaybackAcknowledgement.java:37)
+	at com.thoughtworks.twist.messaging.event.PlaybackAcknowledgement.execute(PlaybackAcknowledgement.java:1)
+	at com.thoughtworks.twist.messaging.event.AbstractEvent.execute(AbstractEvent.java:30)
+	at com.thoughtworks.twist.messaging.RemoteSession.messageReceived(RemoteSession.java:146)
+	at org.apache.mina.common.DefaultIoFilterChain$TailFilter.messageReceived(DefaultIoFilterChain.java:743)
+	at org.apache.mina.common.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:405)
+	at org.apache.mina.common.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:40)
+	at org.apache.mina.common.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:823)
+	at org.apache.mina.common.IoFilterEvent.fire(IoFilterEvent.java:54)
+	at org.apache.mina.common.IoEvent.run(IoEvent.java:62)
+	at org.apache.mina.filter.executor.UnorderedThreadPoolExecutor$Worker.runTask(UnorderedThreadPoolExecutor.java:480)
+	at org.apache.mina.filter.executor.UnorderedThreadPoolExecutor$Worker.run(UnorderedThreadPoolExecutor.java:435)
+	at java.lang.Thread.run(Thread.java:662)
+
+622  [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 1 scenario(s) has started.
+17015 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+17079 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+17383 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+17473 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+1    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 1 scenario(s) has started.
+16067 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+16129 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+16416 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+16474 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 1 scenario(s) has started.
+16166 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+16227 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+16560 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+16614 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
