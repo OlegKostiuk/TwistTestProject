@@ -342,3 +342,35 @@ Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
 System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
 Driver info: driver.version: RemoteWebDriver
 16614 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 1 scenario(s) has started.
+16686 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+16811 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+17057 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+17101 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 1 scenario(s) has started.
+14446 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+14503 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+14837 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+14884 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 1 scenario(s) has started.
+17624 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+17672 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+18002 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+18080 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
+0    [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of 1 scenario(s) has started.
+15372 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenario 'Simple Scenario.scn' started.
+15426 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Passed execution of scenario 'Simple Scenario.scn'.
+15767 [pool-7-thread-1] WARN  org.springframework.beans.factory.support.DisposableBeanAdapter  - Invocation of destroy method 'stop' failed on bean with name 'webDriverFactory': org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:17:32'
+System info: host: 'EPUALVIW0663', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.6.0_45'
+Driver info: driver.version: RemoteWebDriver
+15790 [pool-1-thread-1] INFO  com.thoughtworks.twist.user  - ** Execution of scenarios has ended.
