@@ -15,23 +15,15 @@ public class SeleniumDriverFactory {
 	private String browserVersion;
 
 	public void start() throws MalformedURLException {
-		/*DesiredCapabilities capabilities = new DesiredCapabilities();
+		DesiredCapabilities capabilities = new DesiredCapabilities();
 		System.out.println(capabilities.getBrowserName());
 		capabilities.setCapability(CapabilityType.BROWSER_NAME, browserName);
 		capabilities.setCapability(CapabilityType.VERSION, browserVersion);
 		capabilities.setCapability(CapabilityType.PLATFORM, platform);
 
 		this.browser = new RemoteWebDriver(new URL(remoteServerUrl),
-				capabilities);*/
+				capabilities);
 
-		DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
-		desiredCapabilities.setBrowserName(System.getenv("SELENIUM_BROWSER"));
-		desiredCapabilities.setVersion(System.getenv("SELENIUM_VERSION"));
-		desiredCapabilities.setCapability(CapabilityType.PLATFORM, System.getenv("SELENIUM_PLATFORM"));
-		this.browser = new RemoteWebDriver(
-		    new URL("http://olgkos:980952c6-0a4e-40d7-8c92-392ba8e2465c@ondemand.saucelabs.com:80/wd/hub"),
-		    desiredCapabilities);
-		
 	}
 
 	public void stop() {
