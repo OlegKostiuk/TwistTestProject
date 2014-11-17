@@ -1,0 +1,1 @@
+﻿var twistExecutionDetails = {"dateTime":"2014-11-17 17:16:45","errorCount":0,"executionTime":0,"failureCount":0,"manualScenariosCount":0,"matchedScenariosCount":0,"passCount":0,"projectDetails":{"name":"TwistTestProject","version":"14.2.0"},"scenarios":[],"successRate":0,"tags":"","type":"scenarios"}
