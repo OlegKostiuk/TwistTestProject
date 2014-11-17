@@ -84,11 +84,11 @@
 		     confDir="${twist.config.dir}"
 		     failureproperty="twist.scenarios.failed" 
 		     classpathref="scenarios.classpath"
-		     tags="Windows 8.1, internet explorer, 11" threads="1"
+		     tags="!in-progress" threads="1"
 		   	
 		  	jvmargs="-Dbrowser_name='internet explorer' -Dplatform='Windows 8.1' -Dbrowser_version=11"/>
 		
-		<mkdir dir="${twist.reports.output.dir}/env2"/>
+	<!--	<mkdir dir="${twist.reports.output.dir}/env2"/>
 		<mkdir dir="${twist.reports.output.dir}/env2/html"/>
 		<twist.runner 
 		     scenarioDir="${twist.project.dir}/scenarios"
@@ -98,7 +98,7 @@
 		     classpathref="scenarios.classpath"
 		     tags="!in-progress" threads="1"
 				   	
-			jvmargs="-Dbrowser_name=firefox -Dplatform='Windows XP' -Dbrowser_version=32"/>
+			jvmargs="-Dbrowser_name=firefox -Dplatform='Windows XP' -Dbrowser_version=32"/> -->
 
 		<fail if="twist.scenarios.failed"
               message="One or more scenarios for failed" />
