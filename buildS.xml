@@ -86,7 +86,7 @@
 		     classpathref="scenarios.classpath"
 		     tags="!in-progress" threads="1"
 		   	
-		  	jvmargs="-Dbrowser_name='internet explorer' -Dplatform='Windows 8.1' -Dbrowser_version=11"/>
+		  	jvmargs="-Dbrowser_name='internet explorer' -Dplatform='Windows 7' -Dbrowser_version=10"/>
 		
 	<!--	<mkdir dir="${twist.reports.output.dir}/env2"/>
 		<mkdir dir="${twist.reports.output.dir}/env2/html"/>
