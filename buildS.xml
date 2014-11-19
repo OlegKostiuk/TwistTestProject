@@ -88,7 +88,7 @@
 		   	
 		  	jvmargs="-Dbrowser_name='firefox' -Dplatform='Windows 7' -Dbrowser_version=32"/>
 		
-	<!--	<mkdir dir="${twist.reports.output.dir}/env2"/>
+		<mkdir dir="${twist.reports.output.dir}/env2"/>
 		<mkdir dir="${twist.reports.output.dir}/env2/html"/>
 		<twist.runner 
 		     scenarioDir="${twist.project.dir}/scenarios"
@@ -98,7 +98,7 @@
 		     classpathref="scenarios.classpath"
 		     tags="!in-progress" threads="1"
 				   	
-			jvmargs="-Dbrowser_name=firefox -Dplatform='Windows XP' -Dbrowser_version=32"/> -->
+			jvmargs="-Dbrowser_name=firefox -Dplatform='Windows XP' -Dbrowser_version=32"/>
 
 		<fail if="twist.scenarios.failed"
               message="One or more scenarios for failed" />
