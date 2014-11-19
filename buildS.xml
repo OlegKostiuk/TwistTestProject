@@ -84,9 +84,9 @@
 		     confDir="${twist.config.dir}"
 		     failureproperty="twist.scenarios.failed" 
 		     classpathref="scenarios.classpath"
-		     tags="!in-progress; windows" threads="1"
+		     tags="!in-progress; Windows 7; IE 10" threads="1"
 		   	
-		  	jvmargs="-Dbrowser_name='internet explorer' -Dplatform='Windows 7' -Dbrowser_version=10"/>
+		  	jvmargs="-Dbrowser_name='firefox' -Dplatform='Windows 7' -Dbrowser_version=32"/>
 		
 	<!--	<mkdir dir="${twist.reports.output.dir}/env2"/>
 		<mkdir dir="${twist.reports.output.dir}/env2/html"/>
