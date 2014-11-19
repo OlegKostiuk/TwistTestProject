@@ -21,12 +21,15 @@ public class AtWiki {
 
 	public void searchFor(String searchString) throws Exception {
 		browser.get("http://www.en.wikipedia.org");
+		System.out.println("Open main page");
 		browser.findElement(By.name("search")).sendKeys(searchString);
+		System.out.println("Send keys");
 		browser.findElement(By.id("searchButton")).click();
+		System.out.println("Click search");
 	}
 
 	public void verifyEntryPageForAppears(String link) throws Exception {
-		assertTrue(browser.getCurrentUrl().contains(link));
+		assertTrue("Text doesnt appear", browser.getCurrentUrl().contains(link));
 	}
 
 }
